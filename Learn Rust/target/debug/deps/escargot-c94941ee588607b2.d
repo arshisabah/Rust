@@ -1,0 +1,17 @@
+D:\Rust\Learn Rust\target\debug\deps\libescargot-c94941ee588607b2.rmeta: C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\lib.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\build.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\cargo.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\msg.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\run.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\test.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\error.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\format\mod.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\format\diagnostic.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\format\test.rs D:\Rust\Learn\ Rust\target\debug\build\escargot-4f406efc428af0ba\out/current_target.txt
+
+D:\Rust\Learn Rust\target\debug\deps\escargot-c94941ee588607b2.d: C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\lib.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\build.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\cargo.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\msg.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\run.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\test.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\error.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\format\mod.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\format\diagnostic.rs C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\format\test.rs D:\Rust\Learn\ Rust\target\debug\build\escargot-4f406efc428af0ba\out/current_target.txt
+
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\lib.rs:
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\build.rs:
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\cargo.rs:
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\msg.rs:
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\run.rs:
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\test.rs:
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\error.rs:
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\format\mod.rs:
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\format\diagnostic.rs:
+C:\Users\arshi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.14\src\format\test.rs:
+D:\Rust\Learn\ Rust\target\debug\build\escargot-4f406efc428af0ba\out/current_target.txt:
+
+# env-dep:OUT_DIR=D:\\Rust\\Learn Rust\\target\\debug\\build\\escargot-4f406efc428af0ba\\out
