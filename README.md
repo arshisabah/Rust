@@ -1,11 +1,11 @@
 Rust Practice Programs 🚀
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Welcome to my Rust programming learning repository! This repo contains a wide range of small Rust programs demonstrating key language features and concepts.
 It is an evolving project as I explore more advanced Rust topics.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 📚 Table of Contents
 Repository Structure
 
@@ -21,6 +21,7 @@ Contribution
 
 License
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 📂 Repository Structure
 pgsql
 Copy
@@ -58,7 +59,7 @@ Rust/
 Each folder contains one or more .rs files demonstrating specific Rust concepts.
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 ✅ Concepts Covered
 📌 Variables, Data Types, and Control Flow
 
@@ -84,6 +85,8 @@ Each folder contains one or more .rs files demonstrating specific Rust concepts.
 
 📌 Basic I/O and Standard Library Usage (Planned)
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Setup & Usage
 Prerequisites:
 Rust (Install Rust)
@@ -100,6 +103,8 @@ rustc filename.rs
 ./filename
 Or you can structure the entire repository as a Cargo Workspace (see below 👇).
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 🚀 (Optional) Converting This Repo into a Cargo Workspace
 To manage everything easily and run with Cargo:
 
@@ -141,6 +146,8 @@ cargo build --workspace
 cargo run -p arrays
 Let me know if you want me to generate all the individual Cargo.toml and folder structures for you automatically.
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Learning Goals
 Gain strong fundamentals in Rust syntax and semantics
 
@@ -161,6 +168,8 @@ Prepare for building larger Rust projects (CLI tools, microservices, embedded ap
 
  Working with Rust Crates (like serde, tokio, etc.)
 
+ 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 🤝 Contribution
 Feel free to fork the repo and use it for your learning.
 If you want to suggest improvements, you can create an Issue or Pull Request.
