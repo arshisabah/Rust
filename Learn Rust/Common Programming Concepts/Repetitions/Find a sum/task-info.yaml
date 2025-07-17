@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 42
-        length: 10
+        length: 14
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -16,21 +16,24 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: KYbu5T9bs/cneb2aNJ0rxkcFtGAo3c5lTQJi9s58ztM=
         selected: false
-        status: Unchecked
-      - offset: 63
-        length: 10
+        status: Solved
+      - offset: 67
+        length: 11
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 63
         initialized_from_dependency: false
         encrypted_possible_answer: gFfEf2FAm/djfd3JA1Bvzg==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: Cargo.toml
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Repetitions+/+Find+a+sum
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 16 Jul 2025 06:52:46 UTC"
 record: -1
